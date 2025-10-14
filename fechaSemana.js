@@ -1,4 +1,4 @@
-let nombres = ['Pedro', 'Juan', 'Elena'];
+let nombres = ['Pedro', 'Juan', 'Elena', 'Antonio', 'Maria'];
 console.log(nombres.map(nom => nom.length));
 // Muestra el array con los valores [5, 4, 5]
 let sumaNombres= nombres.reduce((acumulador, elemento) => {
