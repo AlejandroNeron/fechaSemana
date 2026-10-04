@@ -11,10 +11,13 @@ the length of each name and the total number of characters.
 ## Installation
 
 1. Clone the repository:
+
 ```bash
    git clone https://github.com/AlejandroNeron/fechaSemana.git
 ```
+
 2. Enter the project folder:
+
 ```bash
    cd fechaSemana
 ```
